@@ -4,7 +4,7 @@ Flag Forge is a simple Capture The Flag (CTF) platform designed to host, manage,
 
 ## Repositories
 
-- **flagfore🔱** - frontend of flagforge
+- **flagfore** - frontend of flagforge
 - **flagforge-backend** - Efficient backend for falgforge
 - **flagforge-writeup** - Writeup for flagforge Challenges
 
