@@ -1,4 +1,4 @@
-# BhairavOS
+# FlagForge
 Flag Forge is a simple Capture The Flag (CTF) platform designed to host, manage, and participate in CTF challenges. It provides an intuitive interface for participants to solve challenges, submit flags, and track their progress.
 
 
